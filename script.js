@@ -38,39 +38,39 @@ Amplitude.init({
     },
     "songs": [
 		{
-			"name": "First Snow",
-			"artist": "Emancipator",
-			"album": "Soon It Will Be Cold Enough",
-			"url": "https://521dimensions.com/song/FirstSnow-Emancipator.mp3",
-			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
+			"name": "Ad Astra",
+			"artist": "Atom Loves You",
+			"album": "Ad Astra per Astra",
+			"url": "https://assets.codepen.io/6566924/Bright%2C+Tense+Lead.wav",
+			"cover_art_url": "https://assets.codepen.io/6566924/Ad+Astra+per+Aspera+Cover+01.png"
 		},
 		{
-			"name": "Intro / Sweet Glory",
-			"artist": "Jimkata",
-			"album": "Die Digital",
-			"url": "https://521dimensions.com/song/IntroSweetGlory-Jimkata.mp3",
-			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/die-digital.jpg"
+			"name": "Tweeters, Woofers, Heavy Metal",
+			"artist": "Atom Loves You",
+			"album": "Ad Astra per Astra",
+			"url": "https://assets.codepen.io/6566924/Tweeters-Woofers-Heavy-Metal.mp3",
+			"cover_art_url": "https://assets.codepen.io/6566924/Ad+Astra+per+Aspera+Cover+Tweeters%2C+Woofers%2C+Heavy+Metal.png"
 		},
 		{
-			"name": "Offcut #6",
-			"artist": "Little People",
-			"album": "We Are But Hunks of Wood Remixes",
-			"url": "https://521dimensions.com/song/Offcut6-LittlePeople.mp3",
-			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-but-hunks-of-wood.jpg"
+			"name": "143 Nao",
+			"artist": "Atom Loves You",
+			"album": "Ad Astra per Astra",
+			"url": "https://assets.codepen.io/6566924/143+Nao+.mp3",
+			"cover_art_url": "https://assets.codepen.io/6566924/Ad+Astra+per+Aspera+Cover+01.png"
 		},
 		{
-			"name": "Dusk To Dawn",
-			"artist": "Emancipator",
-			"album": "Dusk To Dawn",
-			"url": "https://521dimensions.com/song/DuskToDawn-Emancipator.mp3",
-			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/from-dusk-to-dawn.jpg"
+			"name": "Summer of George",
+			"artist": "Atom Loves You",
+			"album": "Ad Astra per Astra",
+			"url": "https://assets.codepen.io/6566924/Summer-of-George-2023.mp3",
+			"cover_art_url": "https://assets.codepen.io/6566924/Ad+Astra+per+Aspera+Cover+Summer+of+George.png"
 		},
 		{
-			"name": "Anthem",
-			"artist": "Emancipator",
-			"album": "Soon It Will Be Cold Enough",
+			"name": "02",
+			"artist": "Atom Loves You",
+			"album": "Ad Astra per Astra",
 			"url": "https://521dimensions.com/song/Anthem-Emancipator.mp3",
-			"cover_art_url": "https://521dimensions.com/img/open-source/amplitudejs/album-art/soon-it-will-be-cold-enough.jpg"
+			"cover_art_url": "https://assets.codepen.io/6566924/Ad+Astra+per+Aspera+Cover+01.png"
 		}
     ]
 });
