@@ -1,7 +1,7 @@
 {
 	"folders": [
     {
-      "path": "."
+      "path": ".."
     }
   ],
   "settings": {
@@ -195,6 +195,7 @@
     "explorer.fileNesting.enabled": false,
     "explorer.incrementalNaming": "smart",
     "editor.colorDecorators": false,
-    "merge-conflict.decorators.enabled": false
+    "merge-conflict.decorators.enabled": false,
+    "editor.wordWrap": "on"
   }
 }
